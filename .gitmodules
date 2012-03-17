@@ -1,0 +1,3 @@
+[submodule "big_data_for_chimps"]
+	path = big_data_for_chimps
+	url = git@github.com:mrflip/big_data_for_chimps.wiki.git
